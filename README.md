@@ -2,7 +2,7 @@
 
 
 
-                       ![image](https://user-images.githubusercontent.com/98493117/151286616-673a4037-453c-432e-a298-d6edd6dadde8.png)
+![image](https://user-images.githubusercontent.com/98493117/151286616-673a4037-453c-432e-a298-d6edd6dadde8.png)
 
 As companies shift to Cloud-First patterns on AWS, they depend on innovative cloud technologies to achieve security, automation, and scale. Together, Palo Alto Networks and HashiCorp have simplified the security of building and operating at scale in the Cloud, and you can learn this approach in this Hands On Workshop presented by River Point Technology.
 
