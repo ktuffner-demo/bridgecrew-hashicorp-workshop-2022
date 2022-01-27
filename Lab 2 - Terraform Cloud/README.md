@@ -3,10 +3,11 @@
 
 # Author
 Kevin Tuffner - River Point Technology
+1/27/2022
 
 # Estimated Time to Complete Labs
 
-15-30 mins
+30 Minutes
 
 
 # Step # 1 - Setting up HashiCorp Terraform Cloud Account with your email address
