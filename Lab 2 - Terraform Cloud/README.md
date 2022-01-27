@@ -29,10 +29,7 @@ http://app.terraform.io
 
 Once we have signed up for the HashiCorp Terraform Cloud account, we will now need to verify our email address before we can utilize the platform
 
-A Terraform Cloud user account will be needed to perform these labs.  To sign up for Terraform Cloud, please visit the following link:
-http://app.terraform.io
 
-![image](https://user-images.githubusercontent.com/98493117/151415346-b11dd452-e77b-438b-a214-45483cb9b61f.png)
 
 Log in with your newly created credentials when you registered for an account
 
