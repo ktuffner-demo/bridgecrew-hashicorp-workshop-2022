@@ -1,4 +1,4 @@
-#Introduction:
+# Introduction:
 
 The goal of this module is to showcase to students how easy it is to get up and running with a Vault HA Cluster backed by Consul in just a few commands. We will be deploying this Vault cluster on AWS using Terraform.
 Estimated Time to Complete:
