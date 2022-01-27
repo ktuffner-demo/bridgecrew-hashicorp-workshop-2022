@@ -124,16 +124,56 @@ TBD
 
 # Step # 6 - TBD TBD TBD
 
-<img width="664" alt="image" src="https://user-images.githubusercontent.com/98493117/151418493-9431372d-adff-47af-84a2-4b6da6202bdd.png">
+<img width="713" alt="image" src="https://user-images.githubusercontent.com/98493117/151454423-4a86685b-f468-4179-9977-b8d825860608.png">
+
+
+*****************************************************************
+
+# Step # 6 - TBD TBD TBD
+
+<img width="656" alt="image" src="https://user-images.githubusercontent.com/98493117/151454581-77248cbe-6247-4d0c-94b4-fd80778140b7.png">
+
+select github custom
+
+*****************************************************************
+
+# Step # 6 - TBD TBD TBD
+
+<img width="688" alt="image" src="https://user-images.githubusercontent.com/98493117/151454788-945a8f8e-39eb-40e3-acc6-eaf711a05349.png">
+
+click the 
+"On GitHub, register a new OAuth Application.
+Enter the following information"
+
+*****************************************************************
 
 
 
+# Step # 6 - TBD TBD TBD
+
+<img width="683" alt="image" src="https://user-images.githubusercontent.com/98493117/151454938-a1aadf60-db02-457f-95c3-df651b1498fb.png">
 
 
+*****************************************************************
 
-# Step # 7 - Create Terraform Cloud Workspace for the demo
 
-![image](https://user-images.githubusercontent.com/98493117/151417265-b4822ae2-7d83-425d-bff1-9276f27b0d1a.png)
+# Step # 6 - TBD TBD TBD
+
+fill in:
+Application name: 	
+Terraform Cloud (Bridgecrew-Workshop-2022)
+Homepage URL: 	
+https://app.terraform.io
+Application description: 	Any description of your choice
+Authorization callback URL: 	
+https://app.terraform.io/auth/34e216f0-88d4-4533-97e7-24d8588e5bd6/callback 
+
+<img width="739" alt="image" src="https://user-images.githubusercontent.com/98493117/151455103-30b452b9-9d90-402f-bbf0-d8596e73538f.png">
+
+
+*****************************************************************
+
+
 
 
 
