@@ -70,7 +70,7 @@ We will now need to create an API token between the local Terraform CLI and our 
 
 ![image](https://user-images.githubusercontent.com/98493117/151418210-834fdd57-b04e-4938-847d-92badf5bfddf.png)
 
-
+# Step # 6 - TBD TBD TBD
 
 <img width="664" alt="image" src="https://user-images.githubusercontent.com/98493117/151418493-9431372d-adff-47af-84a2-4b6da6202bdd.png">
 
