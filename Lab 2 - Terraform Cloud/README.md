@@ -33,11 +33,13 @@ Lets log in with our newly created credentials when you registered for an accoun
 
 ![image](https://user-images.githubusercontent.com/98493117/151415571-3bdd5043-8f9c-4572-b4a9-c259b5464b99.png)
 
-Please go ahead and confirm your email address
+Please go ahead and confirm your email address. You will need to click confirm in an auto-generated email
 
 ![image](https://user-images.githubusercontent.com/98493117/151415695-e046ef52-6abf-4ec8-8f49-f03de57e259b.png)
 
-# Step # 2 - Welcome to Terraform Cloud - Landing Page
+# Step # 3 - Welcome to Terraform Cloud - Landing Page
+
+Once we log in we should see this default landing page
 
 ![image](https://user-images.githubusercontent.com/98493117/151415906-dbd2a101-50ec-44be-9148-64c0943379d7.png)
 
