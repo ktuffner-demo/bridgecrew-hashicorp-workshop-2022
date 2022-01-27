@@ -75,7 +75,7 @@ Enter an "Organization Name" you want to use and then click Create Organization
 
 We will now be re-directed to the workspaces web page and we should not see any workspaces created at this time
 
-<img width="402" alt="image" src="https://user-images.githubusercontent.com/98493117/151424168-bbd6543a-078b-4f0a-8997-92500b855804.png">
+<img width="800" alt="image" src="https://user-images.githubusercontent.com/98493117/151424353-18f982f6-4497-4ee8-b9dd-0c9c74a2cc61.png">
 
 
 
