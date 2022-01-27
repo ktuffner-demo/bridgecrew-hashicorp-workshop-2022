@@ -176,6 +176,33 @@ https://app.terraform.io/auth/34e216f0-88d4-4533-97e7-24d8588e5bd6/callback
 # Step # 6 - TBD TBD TBD
 
 
+<img width="608" alt="image" src="https://user-images.githubusercontent.com/98493117/151456491-8c335b61-0b20-4b5b-b886-770f2a6ecbc6.png">
+
+
+*****************************************************************
+
+
+# Step # 6 - TBD TBD TBD
+
+
+<img width="761" alt="image" src="https://user-images.githubusercontent.com/98493117/151456619-dc2dcc86-6977-4a09-8c46-a3bc91146850.png">
+
+
+
+*****************************************************************
+
+
+# Step # 6 - TBD TBD TBD
+
+<img width="655" alt="image" src="https://user-images.githubusercontent.com/98493117/151456747-aff8074a-4591-4b1c-8cf6-459406a554b2.png">
+
+
+
+*****************************************************************
+
+
+# Step # 6 - TBD TBD TBD
+
 
 
 
