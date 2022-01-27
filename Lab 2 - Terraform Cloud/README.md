@@ -71,6 +71,11 @@ Go back to our browser window for Terraform Cloud. Up in the top left corner, th
 <img width="666" alt="image" src="https://user-images.githubusercontent.com/98493117/151423660-09602761-3795-4fb7-9c2e-6cd02eeb9c25.png">
 
 
+Enter an "Organization Name" you want to use and then click Create Organization
+
+
+
+
 
 # Step # 4 - Create Terraform Cloud Organization for the demo
 
