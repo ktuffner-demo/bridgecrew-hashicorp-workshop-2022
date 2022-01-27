@@ -49,6 +49,21 @@ We will now need to create an API token between the local Terraform CLI and our 
 
 ![image](https://user-images.githubusercontent.com/98493117/151416615-9d21a25c-a052-4fb9-84fe-c73c38d5ca30.png)
 
+![image](https://user-images.githubusercontent.com/98493117/151416747-5ba2a853-9bdb-40b9-9f1d-c377d2b1fb5c.png)
+
+![image](https://user-images.githubusercontent.com/98493117/151416818-2173898a-4983-4d73-8a08-0b539ad3c5f7.png)
+
+# Step # 4 - Create Terraform Cloud Organization for the demo
+
+![image](https://user-images.githubusercontent.com/98493117/151416962-42ea163d-d5f6-4c2d-9bf4-a716c17b42fd.png)
+
+# Step # 5 - Validate Terraform Cloud Billing Type for the demo
+
+![image](https://user-images.githubusercontent.com/98493117/151417095-45eae011-6a56-4b70-9cf6-b93bf5668b94.png)
+
+# Step # 6 - Create Terraform Cloud Workspace for the demo
+
+![image](https://user-images.githubusercontent.com/98493117/151417265-b4822ae2-7d83-425d-bff1-9276f27b0d1a.png)
 
 
 
