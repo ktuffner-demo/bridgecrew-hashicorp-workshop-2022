@@ -63,23 +63,14 @@ Lets go back to our terminal window and enter in our API Token that we just crea
 <img width="623" alt="image" src="https://user-images.githubusercontent.com/98493117/151423113-e5edb94a-1925-4308-92f4-dd3a121cba25.png">
 
 
+# Step # 7 - Create our first Terraform Cloud Organization Unit for the demo
+
+Go back to our browser window for Terraform Cloud. Up in the top left corner, there will be a drop down menu next to the Terraform Logo where we can select create organization.  Click the create new organization and we will be now see the following screenshot down below
 
 
+<img width="666" alt="image" src="https://user-images.githubusercontent.com/98493117/151423660-09602761-3795-4fb7-9c2e-6cd02eeb9c25.png">
 
-# Step # 4 - Log into Terraform Cloud via local laptop Terraform CLI
 
-
-![image](https://user-images.githubusercontent.com/98493117/151416462-6bacd68c-6dfe-41c3-bc82-2c00c9170695.png)
-
-Should be logged in.
-
-We will now need to create an API token between the local Terraform CLI and our Terraform Cloud Account
-
-![image](https://user-images.githubusercontent.com/98493117/151416615-9d21a25c-a052-4fb9-84fe-c73c38d5ca30.png)
-
-![image](https://user-images.githubusercontent.com/98493117/151416747-5ba2a853-9bdb-40b9-9f1d-c377d2b1fb5c.png)
-
-![image](https://user-images.githubusercontent.com/98493117/151416818-2173898a-4983-4d73-8a08-0b539ad3c5f7.png)
 
 # Step # 4 - Create Terraform Cloud Organization for the demo
 
