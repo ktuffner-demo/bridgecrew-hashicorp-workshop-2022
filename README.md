@@ -1,5 +1,7 @@
 # Workshop Introduction:
 
+https://vmblog.com/images/bridgecrew-logo.jpg
+
 As companies shift to Cloud-First patterns on AWS, they depend on innovative cloud technologies to achieve security, automation, and scale. Together, Palo Alto Networks and HashiCorp have simplified the security of building and operating at scale in the Cloud, and you can learn this approach in this Hands On Workshop presented by River Point Technology.
 
 Registrants will learn how to automate and codify your AWS Cloud Platforms securely from Commit to Cloud with Palo Alto Networks and HashiCorp Terraform Cloud.
