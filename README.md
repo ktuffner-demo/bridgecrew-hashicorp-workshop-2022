@@ -1,9 +1,14 @@
-# Introduction:
+# Workshop Introduction:
 
-The goal of this module is to showcase to students how easy it is to get up and running with a Vault HA Cluster backed by Consul in just a few commands. We will be deploying this Vault cluster on AWS using Terraform.
-Estimated Time to Complete:
+As companies shift to Cloud-First patterns on AWS, they depend on innovative cloud technologies to achieve security, automation, and scale. Together, Palo Alto Networks and HashiCorp have simplified the security of building and operating at scale in the Cloud, and you can learn this approach in our Hands On Workshop.
 
-30-45 Minutes
+Registrants will learn how to automate and codify your AWS Cloud Platforms securely from Commit to Cloud with Palo Alto Networks and HashiCorp Terraform Cloud.
+
+# Estimated Time to Complete Labs
+
+1 to 2 Hours Max
+
+
 Solution:
 
 Provision a quick start Vault & Consul cluster in a private network with a bastion host.
