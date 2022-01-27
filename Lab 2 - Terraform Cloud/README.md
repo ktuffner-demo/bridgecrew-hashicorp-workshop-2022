@@ -29,14 +29,11 @@ http://app.terraform.io
 
 Once we have signed up for the HashiCorp Terraform Cloud account, we will now need to verify our email address before we can utilize the platform
 
-
-
-Log in with your newly created credentials when you registered for an account
+Lets log in with our newly created credentials when you registered for an account
 
 ![image](https://user-images.githubusercontent.com/98493117/151415571-3bdd5043-8f9c-4572-b4a9-c259b5464b99.png)
 
-
-Once logged in, you will be prompted to confirm your email address with the HashiCorp Terraform Cloud Platform. Please go ahead and confirm your email address
+Please go ahead and confirm your email address
 
 ![image](https://user-images.githubusercontent.com/98493117/151415695-e046ef52-6abf-4ec8-8f49-f03de57e259b.png)
 
