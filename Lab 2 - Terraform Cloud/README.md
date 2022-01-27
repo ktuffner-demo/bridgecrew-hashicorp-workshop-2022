@@ -79,6 +79,14 @@ We will now be re-directed to the workspaces web page and we should not see any 
 
 
 
+# Step # 8 - Setup our Terraform Cloud VCS Provider to Github
+
+TBD
+TBD
+TBD
+TBD
+
+
 
 *****************************************************************
 
