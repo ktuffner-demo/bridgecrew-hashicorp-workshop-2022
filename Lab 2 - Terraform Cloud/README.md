@@ -14,7 +14,7 @@
 
 15-30 mins
 
-# Step # 1
+# Step # 1 - Setting up HashiCorp Terraform Cloud Account with your email address
 
 Sign Up for Terraform Cloud Account
 
@@ -22,3 +22,33 @@ A Terraform Cloud user account will be needed to perform these labs.  To sign up
 http://app.terraform.io
 
 ![image](https://user-images.githubusercontent.com/98493117/151415346-b11dd452-e77b-438b-a214-45483cb9b61f.png)
+
+Log in with your newly created credentials when you registered for an account
+
+![image](https://user-images.githubusercontent.com/98493117/151415571-3bdd5043-8f9c-4572-b4a9-c259b5464b99.png)
+
+
+Once logged in, you will be prompted to confirm your email address with the HashiCorp Terraform Cloud Platform. Please go ahead and confirm your email address
+
+![image](https://user-images.githubusercontent.com/98493117/151415695-e046ef52-6abf-4ec8-8f49-f03de57e259b.png)
+
+# Step # 2 - Welcome to Terraform Cloud - Landing Page
+
+![image](https://user-images.githubusercontent.com/98493117/151415906-dbd2a101-50ec-44be-9148-64c0943379d7.png)
+
+
+# Step # 3 - Log into Terraform Cloud via local laptop Terraform CLI
+
+![image](https://user-images.githubusercontent.com/98493117/151416382-0c807e85-67f0-46e5-b3df-56e4dacc6513.png)
+
+![image](https://user-images.githubusercontent.com/98493117/151416462-6bacd68c-6dfe-41c3-bc82-2c00c9170695.png)
+
+Should be logged in.
+
+We will now need to create an API token between the local Terraform CLI and our Terraform Cloud Account
+
+![image](https://user-images.githubusercontent.com/98493117/151416615-9d21a25c-a052-4fb9-84fe-c73c38d5ca30.png)
+
+
+
+
