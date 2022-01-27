@@ -41,12 +41,20 @@ Please go ahead and confirm your email address. You will need to click confirm i
 
 Once we log in we should see this default landing page
 
+** Update this picture ***
+
 ![image](https://user-images.githubusercontent.com/98493117/151415906-dbd2a101-50ec-44be-9148-64c0943379d7.png)
 
 
-# Step # 3 - Log into Terraform Cloud via local laptop Terraform CLI
+# Step # 4 - Log into Terraform Cloud via local laptop Terraform CLI
+
+We need to setup our Terraform local CLI on our laptop with Terraform Cloud. Open up a terminal editor on your laptop and execute the "terraform login" command like the following screenshot
 
 ![image](https://user-images.githubusercontent.com/98493117/151416382-0c807e85-67f0-46e5-b3df-56e4dacc6513.png)
+
+
+# Step # 4 - Log into Terraform Cloud via local laptop Terraform CLI
+
 
 ![image](https://user-images.githubusercontent.com/98493117/151416462-6bacd68c-6dfe-41c3-bc82-2c00c9170695.png)
 
