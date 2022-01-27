@@ -61,7 +61,21 @@ We will now need to create an API token between the local Terraform CLI and our 
 
 ![image](https://user-images.githubusercontent.com/98493117/151417095-45eae011-6a56-4b70-9cf6-b93bf5668b94.png)
 
-# Step # 6 - Create Terraform Cloud Workspace for the demo
+# Step # 6 - Setup VCS Provider Crendetials for the demo
+
+![image](https://user-images.githubusercontent.com/98493117/151417685-ec7c98e0-23f6-41cc-a098-33267cb11999.png)
+ Go to settings
+ 
+ ![image](https://user-images.githubusercontent.com/98493117/151417871-7014e9f0-dc67-4354-a1c8-f7a72fb25357.png)
+
+![image](https://user-images.githubusercontent.com/98493117/151418210-834fdd57-b04e-4938-847d-92badf5bfddf.png)
+
+<img width="664" alt="image" src="https://user-images.githubusercontent.com/98493117/151418402-2e0206e4-bf47-4005-b39b-c92648cd4d59.png">
+
+
+
+
+# Step # 7 - Create Terraform Cloud Workspace for the demo
 
 ![image](https://user-images.githubusercontent.com/98493117/151417265-b4822ae2-7d83-425d-bff1-9276f27b0d1a.png)
 
