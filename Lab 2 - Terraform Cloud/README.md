@@ -46,6 +46,26 @@ We need to setup our Terraform local CLI on our laptop with Terraform Cloud. Ope
 <img width="685" alt="image" src="https://user-images.githubusercontent.com/98493117/151422121-32891f23-b58b-47e4-a65f-d7f3a52d7cf5.png">
 
 
+# Step # 5 - Create Terraform Cloud API Token to be used with local Terraform CLI
+
+<img width="487" alt="image" src="https://user-images.githubusercontent.com/98493117/151422462-e00e2f77-1949-4c49-9c9d-ddf2b3b2cbeb.png">
+
+Enter a name for the Terraform Cloud API Token and then click create API Create Token. An API Token will then be created like the following screenshot.  Please copy this somewhere safe to be used in the next step with the local Terraform CLI
+
+<img width="518" alt="image" src="https://user-images.githubusercontent.com/98493117/151422784-eb20c59d-1cc8-4ea6-be69-191b274e7a9c.png">
+
+
+# Step # 6 - Enter Terraform Cloud API Token with local Terraform CLI
+
+Lets go back to our terminal window and enter in our API Token that we just created and then click enter, and we will now be authenticated with Terraform Cloud using the API Token via our local Terraform CLI
+
+
+<img width="623" alt="image" src="https://user-images.githubusercontent.com/98493117/151423113-e5edb94a-1925-4308-92f4-dd3a121cba25.png">
+
+
+
+
+
 # Step # 4 - Log into Terraform Cloud via local laptop Terraform CLI
 
 
