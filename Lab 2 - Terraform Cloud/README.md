@@ -50,6 +50,9 @@ Once we log in we should see this default landing page
 
 We need to setup our Terraform local CLI on our laptop with Terraform Cloud. Open up a terminal editor on your laptop and execute the "terraform login" command like the following screenshot
 
+
+*** Updated Screenshot ***
+
 ![image](https://user-images.githubusercontent.com/98493117/151416382-0c807e85-67f0-46e5-b3df-56e4dacc6513.png)
 
 
