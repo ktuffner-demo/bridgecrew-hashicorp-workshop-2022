@@ -17,6 +17,8 @@ http://app.terraform.io
 
 ![image](https://user-images.githubusercontent.com/98493117/151415346-b11dd452-e77b-438b-a214-45483cb9b61f.png)
 
+*****************************************************************
+
 # Step # 2 - Verify Terraform Cloud Account with your email address
 
 Once we have signed up for the HashiCorp Terraform Cloud account, we will now need to verify our email address before we can utilize the platform
@@ -29,6 +31,9 @@ Please go ahead and confirm your email address. You will need to click confirm i
 
 ![image](https://user-images.githubusercontent.com/98493117/151415695-e046ef52-6abf-4ec8-8f49-f03de57e259b.png)
 
+*****************************************************************
+
+
 # Step # 3 - Welcome to Terraform Cloud - Landing Page
 
 Once we log in we should see this default landing page
@@ -37,6 +42,8 @@ Once we log in we should see this default landing page
 
 ![image](https://user-images.githubusercontent.com/98493117/151415906-dbd2a101-50ec-44be-9148-64c0943379d7.png)
 
+*****************************************************************
+
 
 # Step # 4 - Log into Terraform Cloud via local laptop Terraform CLI
 
@@ -44,6 +51,8 @@ We need to setup our Terraform local CLI on our laptop with Terraform Cloud. Ope
 
 
 <img width="685" alt="image" src="https://user-images.githubusercontent.com/98493117/151422121-32891f23-b58b-47e4-a65f-d7f3a52d7cf5.png">
+
+*****************************************************************
 
 
 # Step # 5 - Create Terraform Cloud API Token to be used with local Terraform CLI
@@ -54,6 +63,8 @@ Enter a name for the Terraform Cloud API Token and then click create API Create 
 
 <img width="518" alt="image" src="https://user-images.githubusercontent.com/98493117/151422784-eb20c59d-1cc8-4ea6-be69-191b274e7a9c.png">
 
+*****************************************************************
+
 
 # Step # 6 - Enter Terraform Cloud API Token with local Terraform CLI
 
@@ -61,6 +72,9 @@ Lets go back to our terminal window and enter in our API Token that we just crea
 
 
 <img width="623" alt="image" src="https://user-images.githubusercontent.com/98493117/151423113-e5edb94a-1925-4308-92f4-dd3a121cba25.png">
+
+
+*****************************************************************
 
 
 # Step # 7 - Create our first Terraform Cloud Organization Unit for the demo
@@ -77,6 +91,8 @@ We will now be re-directed to the workspaces web page and we should not see any 
 
 <img width="800" alt="image" src="https://user-images.githubusercontent.com/98493117/151424353-18f982f6-4497-4ee8-b9dd-0c9c74a2cc61.png">
 
+
+*****************************************************************
 
 
 # Step # 8 - Setup our Terraform Cloud VCS Provider to Github
