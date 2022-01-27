@@ -73,9 +73,14 @@ Go back to our browser window for Terraform Cloud. Up in the top left corner, th
 
 Enter an "Organization Name" you want to use and then click Create Organization
 
+We will now be re-directed to the workspaces web page and we should not see any workspaces created at this time
+
+<img width="402" alt="image" src="https://user-images.githubusercontent.com/98493117/151424168-bbd6543a-078b-4f0a-8997-92500b855804.png">
 
 
 
+
+*****************************************************************
 
 # Step # 4 - Create Terraform Cloud Organization for the demo
 
