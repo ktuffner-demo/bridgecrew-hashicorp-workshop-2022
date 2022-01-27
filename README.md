@@ -26,6 +26,10 @@ Registrants will learn how to automate and codify your AWS Cloud Platforms secur
 
 # Reference Diagram
 
+
+![image](https://user-images.githubusercontent.com/98493117/151287133-147e3609-b9d1-4398-9958-8bd63c41431b.png)
+
+
 # Reference Documentation
 
 # Contact Info
