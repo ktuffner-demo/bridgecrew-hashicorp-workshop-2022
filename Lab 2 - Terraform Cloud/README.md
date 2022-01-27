@@ -97,32 +97,30 @@ We will now be re-directed to the workspaces web page and we should not see any 
 
 
 # Step # 8 - Setup our Terraform Cloud VCS Provider to Github
+TBD
+TBD
+TBD
+<img width="599" alt="image" src="https://user-images.githubusercontent.com/98493117/151434518-4729201a-3668-4c27-ba53-e965c8693fa9.png">
+TBD
+TBD
+TBD
+<img width="469" alt="image" src="https://user-images.githubusercontent.com/98493117/151434432-03b44933-effe-4ae8-8180-477981bc1d5a.png">
+TBD
+TBD
+TBD
+<img width="702" alt="image" src="https://user-images.githubusercontent.com/98493117/151434340-6e9d291a-d42f-4c5d-b705-0d209cb5e992.png">
+TBD
+TBD
+TBD
+<img width="620" alt="image" src="https://user-images.githubusercontent.com/98493117/151434236-73141be4-960d-41fa-9f8e-08a12b364a20.png">
 
-TBD
-TBD
-TBD
-TBD
+
 
 
 
 *****************************************************************
 
-# Step # 4 - Create Terraform Cloud Organization for the demo
 
-![image](https://user-images.githubusercontent.com/98493117/151416962-42ea163d-d5f6-4c2d-9bf4-a716c17b42fd.png)
-
-# Step # 5 - Validate Terraform Cloud Billing Type for the demo
-
-![image](https://user-images.githubusercontent.com/98493117/151417095-45eae011-6a56-4b70-9cf6-b93bf5668b94.png)
-
-# Step # 6 - Setup VCS Provider Crendetials for the demo
-
-![image](https://user-images.githubusercontent.com/98493117/151417685-ec7c98e0-23f6-41cc-a098-33267cb11999.png)
- Go to settings
- 
- ![image](https://user-images.githubusercontent.com/98493117/151417871-7014e9f0-dc67-4354-a1c8-f7a72fb25357.png)
-
-![image](https://user-images.githubusercontent.com/98493117/151418210-834fdd57-b04e-4938-847d-92badf5bfddf.png)
 
 # Step # 6 - TBD TBD TBD
 
