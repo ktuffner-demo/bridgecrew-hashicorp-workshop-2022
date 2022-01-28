@@ -98,7 +98,7 @@ We will now be re-directed to the workspaces web page and we should not see any 
 
 # Step # 6 - TBD TBD TBD
 
-Click on settings up on the top menu bar, and then on the left hand menu scroll down to Version Control, and then Providers
+Click on settings up on the top menu bar, and then on the left hand menu scroll down to Version Control, and then Providers. Click the Purple Control Button Called VCS Providers and we will then be presented with a new screen to choose our VCS Provider
 
 <img width="713" alt="image" src="https://user-images.githubusercontent.com/98493117/151454423-4a86685b-f468-4179-9977-b8d825860608.png">
 
