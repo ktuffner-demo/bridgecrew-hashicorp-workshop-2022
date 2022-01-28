@@ -341,4 +341,15 @@ We need to connect our Github account we signed up for to the Bridgecrew Platfor
 
 
 
+# Step # 29 - Configure Github Account with Bridgecrew Platform
+
+We now need to setup our Github Account with Bridgecrew. A wizard will appear to setup this integration
+
+
+<img width="917" alt="image" src="https://user-images.githubusercontent.com/98493117/151612979-396ea63f-3ea3-4605-970b-aeed77957056.png">
+
+
+*****************************************************************
+
+
 
