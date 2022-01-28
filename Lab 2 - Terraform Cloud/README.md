@@ -48,7 +48,7 @@ Once we log in we should see this default landing page
 
 # Step # 4 - Log into Terraform Cloud via local laptop Terraform CLI
 
-We need to setup our Terraform local CLI on our laptop with Terraform Cloud. Open up a terminal editor on your laptop and execute the "terraform login" command like the following screenshot
+We need to setup our Terraform local CLI on our laptop with Terraform Cloud. Open up a terminal editor on your laptop and execute the "terraform login" command like the following screenshot. A new browser tab will open for you to create a Cloud API Token
 
 
 <img width="685" alt="image" src="https://user-images.githubusercontent.com/98493117/151422121-32891f23-b58b-47e4-a65f-d7f3a52d7cf5.png">
