@@ -314,3 +314,31 @@ Horray!! We have deployed an AWS EC2 resource using Terraform Cloud
 
 *****************************************************************
 
+
+
+# Step # 27 - Setup up Bridgecrew Platform
+
+Please make sure you have already setup an account on the Bridgecrew Platform as discussed for the workshop pre-req's. Now lets log into the platform and we should see the main landing page as follows
+
+
+<img width="699" alt="image" src="https://user-images.githubusercontent.com/98493117/151610153-d2271fe8-c479-4da1-826d-bbe40e643832.png">
+
+
+
+*****************************************************************
+
+
+
+# Step # 28 - Configure "Connections" on the Bridgecrew Platform
+
+We need to connect our Github account we signed up for to the Bridgecrew Platform so that it can be analyzed by Bridgecrew. Click on the Github icon to begin this process
+
+<img width="779" alt="image" src="https://user-images.githubusercontent.com/98493117/151611457-6156d7ab-112b-4659-9ce0-56875cb6dd45.png">
+
+
+
+*****************************************************************
+
+
+
+
