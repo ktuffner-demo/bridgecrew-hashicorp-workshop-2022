@@ -246,7 +246,7 @@ Under the Terraform Cloud Overview, click on the Variables section.  We will now
 
 # Step # 22 - Enter Terraform Cloud Variables for our AWS Sandbox Account
 
-Under workspace variables, click the "purple +" button for Add variable and we will now see the following in the screenshot
+Under workspace variables, click the "purple +" button for Add variable and we will now see the following in the screenshot. Here we are going to add our AWS Sandbox Access Key + Secret Key as Terraform Cloud Variables so we can provision AWS Infrastructure created by Terraform.  Make sure we check the box "Environmnet Variable" and then enter in the Key and Value info for AWS.  This section is case sensitive so under the key name we need to make sure we use "AWS_ACCESS_KEY_ID".  I will not be posting the Value key here in Github, so this will be provided during the Hands on Workshop, but under the "Value" field we would enter our AWS Access Key ID here and then check the box called "Sensitive".  Once this is done, we need to repeat these steps to do the "AWS_SECRET_ACCCESS_KEY" variable and mark that as "Sensitive" also.
 
 <img width="720" alt="image" src="https://user-images.githubusercontent.com/98493117/151588924-acfd28f9-3b7e-41ae-a1bf-bdca374ed0b8.png">
 
