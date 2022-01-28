@@ -203,6 +203,8 @@ We should now see the status of our Terraform Cloud VCS Provider Configuration. 
 
 Click on the workspaces link on the top navigation pane in Terraform Cloud.  Once this page loads then in the upper right hand corner there is a button for "new workspace" click on this.  You then will be directed to a new screen called " Create a new workspace" like the following screenshot down below.  In Terraform Cloud there are 3 workflow ways we interact with the Terraform Cloud Platform. 1) Version Contril Workflow (We are using this one today) + 2) CLI Driven Workflow + 3) API-Driven Workflow.  Click on the "Version Control Workflow"
 
+
+
 <img width="834" alt="image" src="https://user-images.githubusercontent.com/98493117/151457220-bf6f06f7-2632-4f2e-9b14-0b82ddef57ac.png">
 
 
@@ -214,6 +216,8 @@ Click on the workspaces link on the top navigation pane in Terraform Cloud.  Onc
 
 We need to choose a repository in our Github account to link with our Terraform Cloud Workspace.  In Terraform Cloud, each Workspace has a 1:1 pairing to a VCS Repo. Since we established a VCS Provider Connection with Github in our earlier steps, we will see a bunch of repos display for us to choose.  Choose a new Github repo that you have created to store our Terraform Modules.  At the bottom of the page click on the "create workspace"  You will also see an advanved options section we will be skipping these extra configurations, but in a production setting we can add some additional settings.
 
+
+
 <img width="739" alt="image" src="https://user-images.githubusercontent.com/98493117/151475189-8db41c11-355a-4095-b99b-27073ac1dbe5.png">
 
 *****************************************************************
@@ -223,11 +227,20 @@ We need to choose a repository in our Github account to link with our Terraform 
 
 Once the newly created Terraform Cloud Workspace is created we will now see a master Terraform Cloud Overview page.  The overview page is the master location for making configuration changes to our workspace such as RBAC,Secrets/Variables, see our State Files, and Plan Runs we have exectued
 
+
+
 <img width="698" alt="image" src="https://user-images.githubusercontent.com/98493117/151457627-f4067100-2a22-48f3-96d3-6dd10e6de34d.png">
 
 *****************************************************************
 
-# Step # 6 - TBD TBD TBD
+# Step # 21 - Configure Terraform Cloud Variables for our AWS Sandbox Account
 
+Under the Terraform Cloud Overview, click on the Variables section.  We will now be on the Variables Configuration Page like the following screenshot
+
+
+
+<img width="655" alt="image" src="https://user-images.githubusercontent.com/98493117/151587296-042ab4c1-0575-4962-85d5-47caf27d7073.png">
+
+*****************************************************************
 
 
