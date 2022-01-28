@@ -128,7 +128,9 @@ We need to now click on the "register a new OAuth Application" under step # 1.  
 
 
 
-# Step # 11 - Registering a new OAuth Application in Github for Terraform Cloud
+# Step # 11 - Registering a new OAuth Application in Github for Terraform Cloud - Part # 1
+
+Sample screenshot of the Github "Register a new OAuth Application" broswer tab
 
 <img width="683" alt="image" src="https://user-images.githubusercontent.com/98493117/151454938-a1aadf60-db02-457f-95c3-df651b1498fb.png">
 
@@ -136,23 +138,18 @@ We need to now click on the "register a new OAuth Application" under step # 1.  
 *****************************************************************
 
 
-# Step # 6 - TBD TBD TBD
+# Step # 12 - Registering a new OAuth Application in Github for Terraform Cloud - Part # 2
 
-fill in:
-Application name: 	
-Terraform Cloud (Bridgecrew-Workshop-2022)
-Homepage URL: 	
-https://app.terraform.io
-Application description: 	Any description of your choice
-Authorization callback URL: 	
-https://app.terraform.io/auth/34e216f0-88d4-4533-97e7-24d8588e5bd6/callback 
+Filled in details from earlier steps
 
 <img width="739" alt="image" src="https://user-images.githubusercontent.com/98493117/151455103-30b452b9-9d90-402f-bbf0-d8596e73538f.png">
 
 
 *****************************************************************
 
-# Step # 6 - TBD TBD TBD
+# Step # 13 - Github OAuth Client ID and Secrets ID Details
+
+We will need to copy the Client ID and also the Client Secret to our clipboard or IDE Editor to use in the next steps in Terraform Cloud
 
 
 <img width="608" alt="image" src="https://user-images.githubusercontent.com/98493117/151456491-8c335b61-0b20-4b5b-b886-770f2a6ecbc6.png">
@@ -161,11 +158,12 @@ https://app.terraform.io/auth/34e216f0-88d4-4533-97e7-24d8588e5bd6/callback
 *****************************************************************
 
 
-# Step # 6 - TBD TBD TBD
+# Step # 14 - Populate Terraform Cloud VCS Provider Settings with Github Client ID and Secret ID Details
+
+We will enter a name for this VCS Provider ( I used Github-Bridgecrew-Workshop)(we can name this anything) + We will enter the Github Client ID we copied earlier and also the Github Secret and then click "Connnect and Continue"
 
 
 <img width="761" alt="image" src="https://user-images.githubusercontent.com/98493117/151456619-dc2dcc86-6977-4a09-8c46-a3bc91146850.png">
-
 
 
 *****************************************************************
