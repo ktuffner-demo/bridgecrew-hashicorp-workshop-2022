@@ -201,11 +201,9 @@ We should now see the status of our Terraform Cloud VCS Provider Configuration. 
 
 # Step # 18 - Getting started with Terraform Cloud Workspaces
 
-
+Click on the workspaces link on the top navigation pane in Terraform Cloud.  Once this page loads then in the upper right hand corner there is a button for "new workspace" click on this.  You then will be directed to a new screen called " Create a new workspace" like the following screenshot down below.  In Terraform Cloud there are 3 workflow ways we interact with the Terraform Cloud Platform. 1) Version Contril Workflow (We are using this one today) + 2) CLI Driven Workflow + 3) API-Driven Workflow.  Click on the "Version Control Workflow"
 
 <img width="834" alt="image" src="https://user-images.githubusercontent.com/98493117/151457220-bf6f06f7-2632-4f2e-9b14-0b82ddef57ac.png">
-
-
 
 
 *****************************************************************
