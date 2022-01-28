@@ -7,7 +7,7 @@ Kevin Tuffner - River Point Technology
 
 # Estimated Time to Complete Labs
 
-30 Minutes
+30 - 45 Minutes
 
 
 # Step # 1 - Setting up HashiCorp Terraform Cloud Account with your email address
@@ -118,11 +118,11 @@ We are going to use Github for this lab, so choose "Gitlab Custom"
 
 # Step # 10 - Setting up our VCS Provider in Terraform Cloud
 
+We need to now click on the "register a new OAuth Application" under step # 1.  This link will then open a redirect to Github where we need to populate the details for Application Name + Homepage URL + Application Description + Authorization Callback URL. You can copy and paste these values from the Terraform Cloud window
+
+
 <img width="688" alt="image" src="https://user-images.githubusercontent.com/98493117/151454788-945a8f8e-39eb-40e3-acc6-eaf711a05349.png">
 
-click the 
-"On GitHub, register a new OAuth Application.
-Enter the following information"
 
 *****************************************************************
 
