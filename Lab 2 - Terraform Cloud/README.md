@@ -253,5 +253,13 @@ Under workspace variables, click the "purple +" button for Add variable and we w
 *****************************************************************
 
 
+# Step # 23 - Terraform Cloud "Cloud Variables" verification for our AWS Sandbox Account
+
+We should now see 2 Workspace Variables for our AWS Access Secrets like the following screenshot
+
+<img width="945" alt="image" src="https://user-images.githubusercontent.com/98493117/151590278-26105b9f-5f3d-4548-8c78-e45ad96b5170.png">
+
+
+*****************************************************************
 
 
