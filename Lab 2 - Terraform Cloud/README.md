@@ -244,3 +244,14 @@ Under the Terraform Cloud Overview, click on the Variables section.  We will now
 *****************************************************************
 
 
+# Step # 22 - Enter Terraform Cloud Variables for our AWS Sandbox Account
+
+Under workspace variables, click the "purple +" button for Add variable and we will now see the following in the screenshot
+
+<img width="720" alt="image" src="https://user-images.githubusercontent.com/98493117/151588924-acfd28f9-3b7e-41ae-a1bf-bdca374ed0b8.png">
+
+*****************************************************************
+
+
+
+
