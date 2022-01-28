@@ -107,9 +107,12 @@ Click on settings up on the top menu bar, and then on the left hand menu scroll 
 
 # Step # 6 - TBD TBD TBD
 
+We are going to use Github for this lab, so choose "Gitlab Custom"
+
+
 <img width="656" alt="image" src="https://user-images.githubusercontent.com/98493117/151454581-77248cbe-6247-4d0c-94b4-fd80778140b7.png">
 
-select github custom
+
 
 *****************************************************************
 
