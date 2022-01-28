@@ -96,7 +96,7 @@ We will now be re-directed to the workspaces web page and we should not see any 
 *****************************************************************
 
 
-# Step # 6 - TBD TBD TBD
+# Step # 8 - Adding a VCS Provider in Terraform Cloud
 
 Click on settings up on the top menu bar, and then on the left hand menu scroll down to Version Control, and then Providers. Click the Purple Control Button Called VCS Providers and we will then be presented with a new screen to choose our VCS Provider
 
@@ -105,7 +105,7 @@ Click on settings up on the top menu bar, and then on the left hand menu scroll 
 
 *****************************************************************
 
-# Step # 6 - TBD TBD TBD
+# Step # 9 - Choosing our VCS Provider to use in Terraform Cloud
 
 We are going to use Github for this lab, so choose "Gitlab Custom"
 
@@ -116,7 +116,7 @@ We are going to use Github for this lab, so choose "Gitlab Custom"
 
 *****************************************************************
 
-# Step # 6 - TBD TBD TBD
+# Step # 10 - Setting up our VCS Provider in Terraform Cloud
 
 <img width="688" alt="image" src="https://user-images.githubusercontent.com/98493117/151454788-945a8f8e-39eb-40e3-acc6-eaf711a05349.png">
 
@@ -128,7 +128,7 @@ Enter the following information"
 
 
 
-# Step # 6 - TBD TBD TBD
+# Step # 11 - Registering a new OAuth Application in Github for Terraform Cloud
 
 <img width="683" alt="image" src="https://user-images.githubusercontent.com/98493117/151454938-a1aadf60-db02-457f-95c3-df651b1498fb.png">
 
