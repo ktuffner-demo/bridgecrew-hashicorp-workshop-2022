@@ -96,32 +96,6 @@ We will now be re-directed to the workspaces web page and we should not see any 
 *****************************************************************
 
 
-# Step # 8 - Setup our Terraform Cloud VCS Provider to Github
-TBD
-TBD
-TBD
-<img width="599" alt="image" src="https://user-images.githubusercontent.com/98493117/151434518-4729201a-3668-4c27-ba53-e965c8693fa9.png">
-TBD
-TBD
-TBD
-<img width="469" alt="image" src="https://user-images.githubusercontent.com/98493117/151434432-03b44933-effe-4ae8-8180-477981bc1d5a.png">
-TBD
-TBD
-TBD
-<img width="702" alt="image" src="https://user-images.githubusercontent.com/98493117/151434340-6e9d291a-d42f-4c5d-b705-0d209cb5e992.png">
-TBD
-TBD
-TBD
-<img width="620" alt="image" src="https://user-images.githubusercontent.com/98493117/151434236-73141be4-960d-41fa-9f8e-08a12b364a20.png">
-
-
-
-
-
-*****************************************************************
-
-
-
 # Step # 6 - TBD TBD TBD
 
 <img width="713" alt="image" src="https://user-images.githubusercontent.com/98493117/151454423-4a86685b-f468-4179-9977-b8d825860608.png">
