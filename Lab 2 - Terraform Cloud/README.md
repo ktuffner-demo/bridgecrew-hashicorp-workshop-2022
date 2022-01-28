@@ -169,7 +169,9 @@ We will enter a name for this VCS Provider ( I used Github-Bridgecrew-Workshop)(
 *****************************************************************
 
 
-# Step # 6 - TBD TBD TBD
+# Step # 15 - Authorize the Terraform Cloud VCS Provider and Github Application
+
+A window will appear from Github asking for authorization. We will click the green button
 
 <img width="655" alt="image" src="https://user-images.githubusercontent.com/98493117/151456747-aff8074a-4591-4b1c-8cf6-459406a554b2.png">
 
@@ -178,24 +180,28 @@ We will enter a name for this VCS Provider ( I used Github-Bridgecrew-Workshop)(
 *****************************************************************
 
 
-# Step # 6 - TBD TBD TBD
+# Step # 16 - Additional Terraform Cloud VCS Provider Settings
+
+We will skip this step since this is a workshop, but in a production setting you would setup a SSH Keypair to create an additional security barrier
 
 <img width="641" alt="image" src="https://user-images.githubusercontent.com/98493117/151456901-83426ea2-6c62-4af6-8dfa-49496bbd784e.png">
-
-
 
 
 *****************************************************************
 
 
-# Step # 6 - TBD TBD TBD
+# Step # 17 - Terraform Cloud VCS Provider Status
+
+We should now see the status of our Terraform Cloud VCS Provider Configuration. Nothing to do here so we can move on to our next step
 
 <img width="713" alt="image" src="https://user-images.githubusercontent.com/98493117/151457017-36235477-1d34-4df4-82d2-a07d78970724.png">
 
 
 *****************************************************************
 
-# Step # 6 - TBD TBD TBD
+# Step # 18 - Getting started with Terraform Cloud Workspaces
+
+
 
 <img width="834" alt="image" src="https://user-images.githubusercontent.com/98493117/151457220-bf6f06f7-2632-4f2e-9b14-0b82ddef57ac.png">
 
