@@ -283,8 +283,34 @@ Clicking the Start New Plan option will generate a configuration window like the
 *****************************************************************
 
 
+# Step # 25 - Terraform Cloud Plan Kick Off
+
+Now that we submitted the Plan Kick off we will see our Terraform Cloud Plan Phase execute
+
+<img width="840" alt="image" src="https://user-images.githubusercontent.com/98493117/151599010-7e1cae5c-1efe-4811-8b3c-46b49db01f91.png">
 
 
 
+*****************************************************************
 
+# Step # 25 - Terraform Cloud Plan Approval
+
+Our Terraform Cloud Plan has run its initial checks and also performed a Cost Estimatation activity. Cost Estimation is a feature in Terraform Cloud that allows the end user to see sample Cloud costs for deploying resources. We now also need to approve the Terraform Apply like we normally do in our CLI driven workflow locally on our machine. Terraform Cloud handles all of this centrally. Once the approval is entered, the job is que'd and then executed after a few seconds.
+
+
+<img width="683" alt="image" src="https://user-images.githubusercontent.com/98493117/151599527-920f13ce-247d-45ee-b059-6a6ae2e58d53.png">
+
+
+*****************************************************************
+
+
+# Step # 26 - Terraform Cloud Plan Applied and Finished Successfully
+
+Horray!! We have deployed an AWS EC2 resource using Terraform Cloud
+
+
+<img width="793" alt="image" src="https://user-images.githubusercontent.com/98493117/151599907-fca2b9c7-54f6-4e6f-9068-0c510e336864.png">
+
+
+*****************************************************************
 
