@@ -331,7 +331,12 @@ Please make sure you have already setup an account on the Bridgecrew Platform as
 
 # Step # 28 - Configure "Connections" on the Bridgecrew Platform
 
-We need to connect our Github account we signed up for to the Bridgecrew Platform so that it can be analyzed by Bridgecrew. Click on the Github icon to begin this process
+We need to connect our Github account we signed up for to the Bridgecrew Platform so that it can be analyzed by Bridgecrew. Click on the Github icon to begin this process. There will be 1-2 new browser redirects to authorize and create this Github/Bridgecrew Token
+
+
+
+<img width="731" alt="image" src="https://user-images.githubusercontent.com/98493117/151613487-e28bc6db-4522-4ef6-9a8c-fc86693f4819.png">
+
 
 <img width="779" alt="image" src="https://user-images.githubusercontent.com/98493117/151611457-6156d7ab-112b-4659-9ce0-56875cb6dd45.png">
 
