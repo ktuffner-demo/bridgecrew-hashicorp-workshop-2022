@@ -210,19 +210,20 @@ Click on the workspaces link on the top navigation pane in Terraform Cloud.  Onc
 
 
 
-# Step # 6 - TBD TBD TBD
+# Step # 19 - Setting up Terraform Cloud with our Github Repo
 
-Select our workspace that will populate from our connected vcs provider
+We need to choose a repository in our Github account to link with our Terraform Cloud Workspace.  In Terraform Cloud, each Workspace has a 1:1 pairing to a VCS Repo. Since we established a VCS Provider Connection with Github in our earlier steps, we will see a bunch of repos display for us to choose.  Choose a new Github repo that you have created to store our Terraform Modules.  At the bottom of the page click on the "create workspace"  You will also see an advanved options section we will be skipping these extra configurations, but in a production setting we can add some additional settings.
 
 <img width="739" alt="image" src="https://user-images.githubusercontent.com/98493117/151475189-8db41c11-355a-4095-b99b-27073ac1dbe5.png">
 
 *****************************************************************
 
 
-# Step # 6 - TBD TBD TBD
+# Step # 20 - Terraform Cloud Workspace Overview
+
+Once the newly created Terraform Cloud Workspace is created we will now see a master Terraform Cloud Overview page.  The overview page is the master location for making configuration changes to our workspace such as RBAC,Secrets/Variables, see our State Files, and Plan Runs we have exectued
 
 <img width="698" alt="image" src="https://user-images.githubusercontent.com/98493117/151457627-f4067100-2a22-48f3-96d3-6dd10e6de34d.png">
-
 
 *****************************************************************
 
