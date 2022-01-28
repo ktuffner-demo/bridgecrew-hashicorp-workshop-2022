@@ -7,7 +7,7 @@ Kevin Tuffner - River Point Technology
 
 # Estimated Time to Complete Labs
 
-30 - 45 Minutes
+45 Minutes
 
 
 # Step # 1 - Setting up HashiCorp Terraform Cloud Account with your email address
@@ -261,5 +261,30 @@ We should now see 2 Workspace Variables for our AWS Access Secrets like the foll
 
 
 *****************************************************************
+
+
+
+# Step # 24 - Terraform Cloud "Run" AWS Demo Plan
+
+So lets kick off a Terraform Cloud Run using our Terraform Modules in our Github Demo Repo.  In the Terraform Workspace Overview page, click on the "Start New Plan" option in the top right hand side of the Workspace Overview Page
+
+<img width="773" alt="image" src="https://user-images.githubusercontent.com/98493117/151597899-ba66fcd7-f357-461b-aae9-bea3aa54500d.png">
+
+*****************************************************************
+
+# Step # 25 - Terraform Cloud Start New Plan Option
+
+Clicking the Start New Plan option will generate a configuration window like the following screenshot. Here we can enter information line the "reason for starting plan" like this following screenshot
+
+
+<img width="645" alt="image" src="https://user-images.githubusercontent.com/98493117/151598463-54f70053-30ed-4412-b826-d6466f7c20bc.png">
+
+
+*****************************************************************
+
+
+
+
+
 
 
